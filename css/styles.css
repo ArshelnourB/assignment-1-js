@@ -1,0 +1,25 @@
+html{
+    background-color: lightcoral;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+section{
+    background-color: pink;
+    padding: 20px;
+}
+
+button{
+    border: dotted 2px black;
+    background-color: lightsalmon;
+    height: 100%;
+    width: 100%;
+}
+
+p{
+    background-color: lightpink;
+    display: flex;
+}
